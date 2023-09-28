@@ -74,6 +74,7 @@ int main(){
 
 // for(int i=1;i<=10;i++)
 //  cout<<"Hello "<<i<<endl;
+int a;
 
 int n;
 cout<<"enter the  number ";
